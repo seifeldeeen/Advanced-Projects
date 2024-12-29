@@ -1,0 +1,30 @@
+types = ['action', 'sci-fi', 'horror', 'comedy', 'adventure', 'crime', 'historical', 'romance', 'animation', 'drama',
+         'thriller', 'western']
+
+movies_data = [
+    ['action', "John Wick: Chapter 4", '4', '2023', 'Lionsgate'],
+    ['sci-fi', 'Interstellar', '4.5', '2014', 'Warner Bros.'],
+    ['horror', 'The Conjuring', '4', '2013', 'New Line Cinema'],
+    ['comedy', 'Superbad', '4.5', '2007', 'Columbia Pictures'],
+    ['adventure', 'The Hobbit: An Unexpected Journey', '4', '2012', 'Warner Bros.'],
+    ['crime', 'The Godfather', '5', '1972', 'Paramount Pictures'],
+    ['historical', 'Schindler’s List', '4.5', '1993', 'Universal Pictures'],
+    ['romance', 'The Notebook', '4', '2004', 'New Line Cinema'],
+    ['animation', 'Toy Story 4', '4.5', '2019', 'Pixar'],
+    ['drama', 'Forrest Gump', '5', '1994', 'Paramount Pictures'],
+    ['thriller', 'Se7en', '4.5', '1995', 'New Line Cinema'],
+    ['western', 'Django Unchained', '4.5', '2012', 'The Weinstein Company'],
+    ['action', 'Deadpool and Wolverine', '5', '2024', 'Marvel Studios'],
+    ['action', 'Venom: The Last Dance', '4', '2024', 'Marvel Studios'],
+    ['sci-fi', 'Inception', '4.5', '2010', 'Warner Bros.'],
+    ['horror', 'Hereditary', '4', '2018', 'A24'],
+    ['comedy', 'The Hangover', '4', '2009', 'Warner Bros.'],
+    ['adventure', 'Jurassic Park', '4.5', '1993', 'Universal Pictures'],
+    ['crime', 'Pulp Fiction', '5', '1994', 'Miramax'],
+    ['historical', 'Braveheart', '4.5', '1995', 'Paramount Pictures'],
+    ['romance', 'Pride & Prejudice', '4.5', '2005', 'Focus Features'],
+    ['animation', 'Spirited Away', '5', '2001', 'Studio Ghibli'],
+    ['drama', 'The Shawshank Redemption', '5', '1994', 'Columbia Pictures'],
+    ['thriller', 'The Silence of the Lambs', '5', '1991', 'Orion Pictures'],
+    ['western', 'The Good, the Bad and the Ugly', '5', '1966', 'United Artists']
+    ]
